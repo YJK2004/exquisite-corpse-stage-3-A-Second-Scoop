@@ -43,11 +43,11 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 I wanted this sketch to be a bit playful while still having an underlying theme of the passing of time from the previous brief.*
 
 ### 🟩 Stage 3
-- Name/Alias:
-- Github account:
-- Published webpage for stage 3:
-
-*... comments to be added here*
+- Name/Alias: Sarah
+- Github account: https://github.com/YJK2004
+- Published webpage for stage 3: 
+#### notes
+I was looking through other people's sketches to collaborate with dataset and I found 'A Second Scoop' 
 
 ### 🟦 Stage 4
 - Name/Alias:
