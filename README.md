@@ -45,7 +45,7 @@ I wanted this sketch to be a bit playful while still having an underlying theme 
 ### 🟩 Stage 3
 - Name/Alias: Sarah
 - Github account: https://github.com/YJK2004
-- Published webpage for stage 3: 
+- Published webpage for stage 3: https://yjk2004.github.io/exquisite-corpse-stage-3-A-Second-Scoop/
 #### notes
 I was looking through other people's sketches to collaborate with dataset and I found 'A Second Scoop' 
 
